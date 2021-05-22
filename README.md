@@ -5,13 +5,14 @@ TO DO.
 
 ## Dataset
 
-Bansal, Shivam. **[Real or Fake] Fake JobPosting Prediction**: Dataset of real and fake job postings. Available at: https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction. Access at: May 21, 2021.
+Bansai, Shivam. "**[Real Or Fake] Fake Jobposting Prediction**: Dataset of real and fake job postings". Kaggle, 2020, https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction. Accessed 21 May 2021.
 
 > This dataset contains 18K job descriptions out of which about 800 are fake. The data consists of both textual information and meta-information about the jobs. The dataset can be used to create classification models which can learn the job descriptions which are fraudulent.
 
-### Acknowledgements
-> The University of the Aegean | Laboratory of Information & Communication Systems Security
-> http://emscad.samos.aegean.gr/
+### Source
+Laboratory of Information & Communication Systems Security. "**Employment Scam Aegean Dataset**". University Of The Aegean, 2014, http://emscad.samos.aegean.gr. Retrieved 29 Feb 2020.
+
+> The Employment Scam Aegean Dataset (EMSCAD) is a publicly available dataset containing 17,880 real-life job ads that aims at providing a clear picture of the Employment Scam problem to the research community and can act as a valuable testbed for scientists working on the field. Our first publication is available online by MDPI Future Internet Journal.
 
 ### Inspiration
 > The dataset is very valuable as it can be used to answer the following questions:
