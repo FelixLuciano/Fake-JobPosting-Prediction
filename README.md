@@ -1,14 +1,21 @@
 [Ph.D. Maria Kelly Venezuela](http://lattes.cnpq.br/6133181706857392), [Insper](https://www.insper.edu.br), 2021.
+
 # Fake JobPosting Prediction
 
 TO DO.
 
 ### Objective:
+
 1. Develop exploratory data analysis (univariate and multivariate), using appropriate statistical and computational tools.
 2. Select information from databases, handle them and prepare them for processing.
 3. Specify the appropriate probability distributions for the discrete and continuous quantitative variables.
 4. Conduct appropriate inferential tests that can support decision making.
 5. Analyze relationships between variables, using appropriate inferential statistical tools.
+
+### Notebooks
+
+1. [Exploratory_analysis.ipynb](notebooks/Exploratory_analysis.ipynb) - Exploratory analysis of the dataset
+2. [Predictive_model_GaussianNB.ipynb](notebooks/Predictive_model_GaussianNB.ipynb) - Building predictive model with Gaussian Naive Bayes
 
 ## Dataset
 
@@ -35,4 +42,5 @@ Laboratory of Information & Communication Systems Security. "**Employment Scam A
 |[Gustavo Eliziario Stevenson de Oliveira](https://github.com/gustavoeso)|[Luciano Felix Dias](https://github.com/FelixLuciano)    |[Pedro Cliquet do Amaral](https://github.com/pcliquet)   |
 
 ## License
+
 This project is [MIT licensed](https://github.com/FelixLuciano/Fake-JobPosting-Prediction/blob/main/LICENSE).
