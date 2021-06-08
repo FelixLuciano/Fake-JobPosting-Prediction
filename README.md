@@ -14,8 +14,10 @@ TO DO.
 
 ### Notebooks
 
-1. [Exploratory_analysis.ipynb](notebooks/Exploratory_analysis.ipynb) - Exploratory analysis of the dataset
-2. [Predictive_model_GaussianNB.ipynb](notebooks/Predictive_model_GaussianNB.ipynb) - Building predictive model with Gaussian Naive Bayes
+1. [Exploratory_analysis.ipynb](notebooks/Exploratory_analysis.ipynb) - Exploratory analysis of the dataset.
+2. [Predictive_model_MultinomialNB.ipynb](notebooks/Predictive_model_MultinomialNB.ipynb) - Building predictive model with Multinomial Naive Bayes.
+3. [Predictive_model_GaussianNB.ipynb](notebooks/Predictive_model_GaussianNB.ipynb) - Building predictive model with Gaussian Naive Bayes.
+4. [Predictive_model_DecisionTreeClassifier.ipynb](notebooks/Predictive_model_DecisionTreeClassifier.ipynb) - Building predictive model with Decision Tree.
 
 ## Dataset
 
