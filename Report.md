@@ -12,7 +12,7 @@ Ph.D. Maria Kelly Venezuela
 
 **Luciano Felix** - [Commits](https://github.com/FelixLuciano/Fake-JobPosting-Prediction/commits?author=FelixLuciano)
 
-- **21/05**: Criação do repositório, readme e a escolha do dataset(em grupo)
+- **21/05**: Criação do repositório, readme e a escolha do dataset(em grupo).
 - **01/06**: Primeira execução do modelo.
 - **08/06**: Analise exploratoria e primeira implementação do modelo Gaussian, tradução dos textos para ingles, organização do arquivo jupter para a entrega final.
 
