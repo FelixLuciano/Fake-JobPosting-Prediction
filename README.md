@@ -2,7 +2,16 @@
 
 # Fake JobPosting Prediction
 
-TO DO.
+### Motivation:
+
+Due to the conditions we live in today, the use of the internet for job search has increased in recent years. We believe that the safety of these people when applying is of great importance, so we decided to create a forecasting model to recognize fraud in a possible job offer.
+
+For this, we decided to investigate the occurrences of fraud in job interviews collected in a database. Using different classification methods known in the literature. Thus, we will analyze their proficiency in classifying a possible fraud of a proposal in order to help unemployed people.
+
+> The internet has shortened distances and brought about several changes in the forms of consumption, such as entertainment, online shopping, study methodologies and even the search for a job. According to data from the 2019 Survey of Brazilian Professionals carried out by Catho with more than 6,200 respondents, most professionals look for a job on the internet, with 78% looking on job sites.
+
+Jornalismo. "**Internet job search**: About 80% of professionals look for opportunities online". Jornal Contábil, 2019, translated, https://www.jornalcontabil.com.br/busca-de-emprego-na-internet-cerca-de-80-dos-profissionais-procuram-oportunidades-online/. Accessed 08 Jun 2021.
+
 
 ### Objective:
 
@@ -12,12 +21,14 @@ TO DO.
 4. Conduct appropriate inferential tests that can support decision making.
 5. Analyze relationships between variables, using appropriate inferential statistical tools.
 
-### Notebooks
+### Notebooks:
 
 1. [Exploratory_analysis.ipynb](notebooks/Exploratory_analysis.ipynb) - Exploratory analysis of the dataset.
-2. [Predictive_model_MultinomialNB.ipynb](notebooks/Predictive_model_MultinomialNB.ipynb) - Building predictive model with Multinomial Naive Bayes.
-3. [Predictive_model_GaussianNB.ipynb](notebooks/Predictive_model_GaussianNB.ipynb) - Building predictive model with Gaussian Naive Bayes.
-4. [Predictive_model_DecisionTreeClassifier.ipynb](notebooks/Predictive_model_DecisionTreeClassifier.ipynb) - Building predictive model with Decision Tree.
+2. [Predictive_model.ipynb](notebooks/Predictive_model.ipynb) - Building predictive model.
+
+### Project report:
+
+[Access here](Report.md) the project report.
 
 ## Dataset
 
