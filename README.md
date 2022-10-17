@@ -1,4 +1,4 @@
-[Ph.D. Maria Kelly Venezuela](http://lattes.cnpq.br/6133181706857392), [Insper](https://www.insper.edu.br), 2021.
+[Maria Kelly Venezuela, Ph.D](http://lattes.cnpq.br/6133181706857392). Ciência de Dados. [Insper](https://www.insper.edu.br), 2021.
 
 # Fake JobPosting Prediction
 
