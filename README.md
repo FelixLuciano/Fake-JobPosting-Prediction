@@ -50,9 +50,30 @@ Laboratory of Information & Communication Systems Security. "**Employment Scam A
 
 ## Authors
 
-|![](https://avatars.githubusercontent.com/u/72350494?v=4)               |![](https://avatars.githubusercontent.com/u/22255332?v=4)|![](https://avatars.githubusercontent.com/u/73079076?v=4)|
-|:----------------------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-|[Gustavo Eliziario Stevenson de Oliveira](https://github.com/gustavoeso)|[Luciano Felix Dias](https://github.com/FelixLuciano)    |[Pedro Cliquet do Amaral](https://github.com/pcliquet)   |
+<table width="100%">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/gustavoeso"><img src="https://avatars.githubusercontent.com/u/72350494?v=4" style="width: 50%;" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/FelixLuciano"><img src="https://avatars.githubusercontent.com/u/22255332?v=4" style="width: 50%;" /><br /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/pcliquet"><img src="https://avatars.githubusercontent.com/u/73079076?v=4" style="width: 50%;" /><br /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/gustavoeso"><strong>Gustavo de Oliveira</strong></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/FelixLuciano"><strong>Luciano Felix</strong></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/pcliquet"><strong>Pedro do Amaral</strong></a>
+        </td>
+    </tr>
+</table>
 
 ## License
 
